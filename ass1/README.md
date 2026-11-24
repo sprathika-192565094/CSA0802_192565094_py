@@ -1,7 +1,7 @@
 # Ksheera Milk Payment Calculator — CO1
 
-Student: ____________________  
-Register number: ____________________  
+Student: S.Prathika
+Register number: 192565094
 Python version: Python 3 (standard library only; verify with `python --version`)
 
 ## Files
