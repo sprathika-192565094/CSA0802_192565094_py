@@ -1,6 +1,5 @@
-"""Run every task, save outputs + screenshots, then (optionally) rebuild the report.
-    python run_all.py            -> runs Task01..Task07 and captures outputs
-    python run_all.py --report   -> also rebuilds Assignment2_Report.docx from the fresh results"""
+"""python run_all.py            -> run all programs, save outputs and screenshots
+   python run_all.py --report   -> also rebuild Assignment4_Report.docx"""
 import subprocess, sys
 
 subprocess.run([sys.executable, "capture_outputs.py"], check=True)
